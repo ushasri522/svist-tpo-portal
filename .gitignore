@@ -1,0 +1,35 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit local config/secrets
+.streamlit/secrets.toml
+
+# Uploaded files and application data
+uploads/
+data/
+*.db
+*.sqlite
+*.sqlite3
+
+# Face-recognition models / cache
+models/
+insightface_models/
+.onnx/
+
+# VS Code local files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
