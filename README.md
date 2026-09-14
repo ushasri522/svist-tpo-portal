@@ -3,7 +3,8 @@
 A Streamlit-based web application for managing student placement drives, eligibility verification, job applications, profile updates, and geofenced biometric attendance for **Sree Vahini Institute of Science & Technology, Tiruvuru**.
 
 > This is an academic/student project created for demonstration and learning purposes.
-
+#Live Demo
+>  https://svist-tpo-portal.onrender.com
 ## Features
 
 ### Student Portal
